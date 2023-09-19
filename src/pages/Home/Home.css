@@ -1,0 +1,12 @@
+body {
+    background-color: beige;
+    padding: 40px;
+}
+
+.bg {
+    background-image: url();
+    width: 650px;
+    height: 650px;
+    background-size: cover;
+    align-self: flex-end;
+}
